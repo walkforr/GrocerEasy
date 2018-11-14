@@ -1,0 +1,131 @@
+header {
+  background-color: #c8da2d;
+}
+
+h1.title {
+  color: white;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 72px;
+  line-height: 1.7;
+}
+
+h3.subtitle {
+  color: white;
+}
+
+p.disclaimer {
+  color: white;
+}
+
+.hide {
+  display: none;
+}
+
+.form-control {
+  width: 300px;
+}
+
+/* login form */
+
+.loginBox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 350px;
+  height: 640px;
+  padding: 80px 40px;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-weight: bold;
+  font-family: "Shadows Into Light", cursive;
+}
+h2 {
+  margin: 0;
+  padding: 0 0 20px;
+  color: #efed40;
+  text-align: center;
+}
+.loginBox input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.loginBox input[type="text"],
+.loginBox input[type="password"] {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+.loginBox input[type="submit"] {
+  border: none;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+  background: #ff267e;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.loginBox input[type="submit"]:hover {
+  background: #efed40;
+  color: #262626;
+}
+
+.productSearchResults {
+  overflow: scroll;
+  height: 310px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+li:hover {
+  color: green;
+  opacity: 0.7;
+  border-radius: 25px;
+  background-color: #c8da2d;
+  border-color: #c8da2d;
+}
+
+.nameResult {
+  font-weight: bold;
+  font-size: 15pt;
+  display: inline;
+}
+
+.marketNearHeader {
+  font-family: "Shadows Into Light", cursive;
+  color: #f6008c;
+  font-size: 30pt;
+}
+
+.marketsBox {
+  border-radius: 15px;
+  border: 1px solid black;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin: 10px;
+}
+
+.marketsBox:hover {
+  color: green;
+  opacity: 0.7;
+  background-color: #c8da2d;
+  border-color: #c8da2d;
+}
+
+.h4 {
+  font-size: 20pt;
+}

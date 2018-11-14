@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="icon"
+      href="http://i66.tinypic.com/2e1en7p.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Shadows+Into+Light"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/mustard-ui@latest/dist/css/mustard-ui.min.css"
+    />
+    <!-- BOOTSTRAP CSS -->
+    <!--
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    -->
+
+    <link rel="stylesheet" href="css/style.css" />
+    <script>
+      function initMap() {
+        //
+      }
+    </script>
+    <!-- insert GoogleMaps Apikey here: -->
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAC_vj1WNOMQdVLqsdBoA_oJOq32kEFPEg&callback=initMap"
+      type="text/javascript"
+    ></script>
+    <title>GrocerEasy</title>
+  </head>
+  <body>
+    <header class="grocery">
+      <h1 class="title">Welcome to GrocerEasy</h1>
+      <h3 class="subtitle">
+        an app to help you find local farmers markets in your area
+      </h3>
+      <p class="disclaimer">Click the button below to find Farmer Markets:</p>
+      <button class="help get-started button button-primary button-medium">
+        Near Me
+      </button>
+      <div class="form-control-group">
+        <div class="form-control col-xs-12 col-md-5">
+          <input
+            type="text"
+            class="zipinput"
+            placeholder="Use a different zipcode"
+          />
+        </div>
+        <button
+          class="help customzip button button-primary button-medium col-xs-12 col-md-5"
+        >
+          Search
+        </button>
+      </div>
+      <div></div>
+      <br />
+
+      <a class="scroll-down" href="#"></a>
+    </header>
+    <div class="container align-center">
+      <div class="row">
+    
+        <section class="leftColumn col-md-6">
+          <p class="marketNearHeader"><strong>Markets Near You</strong></p>
+
+          <div class="nearbyMarkets">
+            <p>
+              Hold up there, bucko! You need to press the button to display the
+              nearby farmers markets
+            </p>
+          </div>
+        </section>
+        <section class="col-md-6">
+            <p class="marketNearHeader"><strong>Find a specific product:</strong></p>
+          <div>
+            <input
+              type="text"
+              name="search"
+              id="search"
+              placeholder="Search for a specific product"
+              class="form-control"
+            />
+          </div>
+          <div class="productSearchResults">
+            <ul class="list-group" id="result"></ul>
+          </div>
+          <div>
+                  <p class="marketNearHeader"><strong>Your Farmers Market:</strong></p>
+  
+                  <div class="marketSelect">
+  
+                  </div>
+        </section>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- THIS IS THE LOADING OPTION -->
+    <div
+      id="wait"
+      style="display:none;width:200px;height:200px; position:fixed;top:40%;left:40%;padding:2px;"
+    >
+      <img
+        src="https://media.giphy.com/media/10kTz4r3ishQwU/giphy.gif"
+        width="200"
+        height="200"
+      />
+      <p class="loading">Loading...</p>
+    </div>
+
+    <!-- THIS MODAL IS WHEN THEY DO NOT ALLOW LOCATION -->
+    <div class="modal-mask hide">
+      <div class="modal">
+        <div class="modal-head"><p class="modal-title">Ooops!</p></div>
+        <div class="modal-body">
+          <p>
+            In order to find farmers markets near you, we need you to share your
+            location. Please try again!
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button class="button-primary">Word My Bad</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- THIS MODAL IS WHEN THEY DO NOT INPUT A VALID ZIPCODE -->
+    <div class="modal-mask zip-modal-mask hide">
+      <div class="modal zip-modal">
+        <div class="modal-head"><p class="modal-title">Uh-oh</p></div>
+        <div class="modal-body"><p>please enter a valid zipcode</p></div>
+        <div class="modal-footer">
+          <button class="button-primary">Cool I'll try Again</button>
+        </div>
+      </div>
+    </div>
+<!-- THIS IS THE MODAL FOR SUBSRIBE SIGN UP -->
+<div class="modal-mask hello-modal-mask hide">
+    <div class="modal zip-modal">
+      <div class="modal-head"><p class="modal-title">Join our Mailing List!</p></div>
+      
+      <div class="modal-body"> 
+          <p class="alert alert-danger invalidEmail hide">Please enter a valid email</p>
+          <p>For updates on farmers markets near you and exclusive discounts, add your contact infromation below!</p>
+          <div class= "form-control"><p>First Name:<input class="subscribeFName" placeholder="enter your first name"></p>
+        <p>Last Name:<input class="subscribeLName" placeholder="enter your last name"></p>
+        <p>Email:<input class="subscribeEmail" placeholder="enter your email">
+        </div>
+        
+        </div>
+      
+      <div class="modal-footer">
+        <button class="button-primary modal-sub">Subscribe!</button>
+        <button class="button-primary modal-dontSub">No Thanks</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- THIS IS THE MODAL THANKING FOR SUBCRIBE -->
+
+  <div class="modal-mask sub-modal-mask hide">
+      <div class="modal sub-modal">
+        <div class="modal-head"><p class="modal-title">Thank You!</p></div>
+        
+        <div class="modal-body"> 
+            You're now on your way to being more informed.
+          
+          </div>
+        
+        <div class="modal-footer">
+          <button class="button-primary modal-thanks">Sweet!</button>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"
+  ></script>
+  <script src="./js/signup.js"></script>
+  <script src="./js/app.js"></script>
+  <script src="/js/customzip.js"></script>
+  <script src="./js/productsearch.js"></script>
+  <script src="./js/showMarketDetail.js"></script>
+</html>
