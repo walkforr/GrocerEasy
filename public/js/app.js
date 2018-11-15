@@ -57,8 +57,6 @@ $(document).ajaxComplete(function() {
         ) {
           var zip = res[0].formatted_address.match(/,\s\w{2}\s(\d{5})/);
           var zipCode = parseInt(zip[1]);
-          console.log("Parsed let zipCode");
-          console.log(zipCode);
 
           const api_key =
             "gyYLN36Dv05ZNrnJPEnKYrUIoSR38yAGVdcCBNlIihXxIgF818d79gU4HkXde7yw";
@@ -82,21 +80,14 @@ $(document).ajaxComplete(function() {
               method: "GET",
               url: `/api/markets`
             }).then(function(markets) {
-              console.log(markets);
-              console.log(nearbyZips);
               for (var i = 0; i < nearbyZips.length; i++) {
-                console.log(nearbyZips[i]);
                 for (var j = 0; j < markets.length; j++) {
-                  console.log(markets[j].zip);
                   if (parseInt(nearbyZips[i]) === markets[j].zip) {
-                    console.log("HELLO THERE");
                     nearbyMarkets.push(markets[j]);
                   } else {
-                    console.log("this zip doesnt match");
                   }
                 }
               }
-              console.log(nearbyMarkets);
               $(".nearbyMarkets").empty();
               for (let i = 0; i < nearbyMarkets.length; i++) {
                 $(".nearbyMarkets").append(
@@ -115,7 +106,6 @@ $(document).ajaxComplete(function() {
                 );
               }
               $(".marketsBox").on("click", function() {
-                console.log("hey there ho there howdya do");
                 const item = {
                   marketName: $(this)
                     .find("#marketName")

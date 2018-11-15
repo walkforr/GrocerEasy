@@ -40,36 +40,7 @@ module.exports = function(app) {
       });
   });
 
-  // PUT route for updating products
-  app.put("/api/products/:id", function(req, res) {
-    db.Product.update(req.body, {
-      where: {
-        id: req.params.id
-      }
-    })
-      .then(function(grocereasy_DB) {
-        res.json(grocereasy_DB);
-      })
-      .catch(function(error) {
-        res.json({ error: error });
-      });
-  });
-
-  // DELETE route for deleting products
-  app.delete("/api/products/:id", function(req, res) {
-    db.Product.destroy({
-      where: {
-        id: req.params.id
-      }
-    })
-      .then(function(grocereasy_DB) {
-        res.json(grocereasy_DB);
-      })
-      .catch(function(error) {
-        res.json({ error: error });
-      });
-  });
-
+  //GET ROUTE FOR RETRIEVING MARKETS //
   app.get("/api/markets", function(req, res) {
     const Op = db.sequelize.Op;
     let productFilter = {};
@@ -101,6 +72,7 @@ module.exports = function(app) {
     });
   });
 
+  //POST ROUTE FOR ADDING SUBSCRIBERS //
   app.post("/api/signup", function(req, res) {
     db.User.create(req.body)
       .then(function(grocereasy_db) {

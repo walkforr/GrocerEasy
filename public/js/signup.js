@@ -20,7 +20,6 @@ $(document).ready(function() {
       url: "/api/signup",
       data: newSub
     }).then(function(data) {
-      console.log(newSub.email);
       if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(newSub.email)) {
         $(".alert").addClass("hide");
 
