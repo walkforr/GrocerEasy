@@ -4,12 +4,10 @@ $(document).ajaxError(function() {
   $(".zip-modal-mask, .zip-modal").fadeIn(200);
   $(".zip-modal-mask, .modal-save").on("click", function() {
     $(".zip-modal-mask, .zip-modal").fadeOut(100);
-    console.log("not a valid zip");
   });
 });
 
 $(".customzip").on("click", function() {
-  console.log("hello");
   const userZip = $(".zipinput").val();
   zipCodeRegex.test(userZip);
   if (zipCodeRegex.test(userZip) === true) {
