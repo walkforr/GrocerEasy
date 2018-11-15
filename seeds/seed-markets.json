@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Cotton Mill Farmers Market",
+    "address": "401 Rome St.",
+    "city": "Carrollton",
+    "state": "GA",
+    "zip": "30117",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://www.cottonmillfarmersmarket.org/",
+    "operationHours": "Saturdays, 8:00am to 12:00pm, April - September & 9:00am to 11:00am, October-March"
+  },
+  {
+    "name": "Kennesaw Farmers Market",
+    "address": "2820 Cherokee Street, Depot Park",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://www.kennesaw-ga.gov/farmers-market/",
+    "operationHours": "Mondays, 3:30pm to 7:30pm, May - October"
+  },
+  {
+    "name": "Marietta Farmers Market",
+    "address": "65 Church St.",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "http://www.mariettasquarefarmersmarket.com/",
+    "operationHours": "Sundays, 9:00am to 12:00pm, Year Roung & Saturdays, 12:00pm to 3:00pm, May - October"
+  },
+  {
+    "name": "Select Farmers Market",
+    "address": "8639 Tara Blvd.",
+    "city": "Jonesboro",
+    "state": "GA",
+    "zip": "30236",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://www.facebook.com/Select-International-Farmers-Market-772557606172965/",
+    "operationHours": "Sundays, 10:00am to 6:00pm & Monday - Saturday, from 9:00am to 8:30pm"
+  },
+  {
+    "name": "Woodstock Farmers Market",
+    "address": "8588 Main Street",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "http://visitwoodstockga.com/event-group/farm-fresh-market/",
+    "operationHours": "Saturdays, 9:30am to 1:00pm, April - December"
+  },
+  {
+    "name": "Smyrna Farmers Market",
+    "address": "1275 Church St.",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://www.smyrnaga.gov/Home/Components/Calendar/Event/8700/15",
+    "operationHours": "Saturdays, 8:00am to 12:00pm, May - September"
+  },
+  {
+    "name": "Coweta County Farmers Market",
+    "address": "197 Temple Avenue ",
+    "city": "Newnan",
+    "state": "GA",
+    "zip": "30263",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://www.facebook.com/events/620912704752991",
+    "operationHours": "Wednesdays & Saturdays, 9:00am to 1:00pm"
+  },
+  {
+    "name": "Brookhaven Farmers Market",
+    "address": "1375 Fernwoord Circle NE",
+    "city": "Brookhaven",
+    "state": "GA",
+    "zip": "30319",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "http://www.brookhavenfarmersmarket.com/",
+    "operationHours": "Saturdays, 9:00am to 12:00pm"
+  },
+  {
+    "name": "Chamblee Tucker Farmers Market",
+    "address": "4046 Chamblee-Tucker Rd.",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30340",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://www.facebook.com/events/chamblee-tucker-farmers-market/287751491357321/",
+    "operationHours": "Saturdays, 9:00am to 12:00pm, April - December"
+  },
+  {
+    "name": "Clarkston Farmers Market",
+    "address": "N. Indian Creek Drive",
+    "city": "Clarkston",
+    "state": "GA",
+    "zip": "30021",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "http://clarkstonfarmersmarket.com/",
+    "operationHours": "Sundays, 10:00am to 2:00pm, April - October"
+  },
+  {
+    "name": "Decatur Farmers Market",
+    "address": "308 Clairemont Ave",
+    "city": "Decatur",
+    "state": "GA",
+    "zip": "30030",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://cfmatl.org/decatur/",
+    "operationHours": "Wednesdays, 4:00pm to 7:00pm & Saturdays, 9:00am to 1:00pm, April - December"
+  },
+  {
+    "name": "Dunwoody Green Market",
+    "address": "5500 Chamblee Rd.",
+    "city": "Dunwoody",
+    "state": "GA",
+    "zip": "30338",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "http://dunwoodygreenmarket.com/word/",
+    "operationHours": "Wednesdays, 8:00am to 12:00pm, April - November"
+  },
+  {
+    "name": "East Atlanta Village Farmers Market",
+    "address": "561 Flat Shoals Ave.",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30316",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://cfmatl.org/eav/",
+    "operationHours": "Thursdays, 4:00pm to 8:00pm, April - November"
+  },
+  {
+    "name": "Tucker Farmers Market",
+    "address": "2333 Main St.",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://tuckerfarmersmarket.com/",
+    "operationHours": "Thursdays, 4:00am to 12:00pm, April - December"
+  },
+  {
+    "name": "Peachtree City Farmers Market",
+    "address": "Aberdeen Villiage Shopping Center, 215 Northlake Dr.",
+    "city": "Peachtree City",
+    "state": "GA",
+    "zip": "30269",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://visitpeachtreecity.com/attraction-city/the-local-farmers-market/",
+    "operationHours": "Wednesdays & Saturdays, 9:00am to 1:00pm, April - November "
+  },
+  {
+    "name": "Alpharetta Farmers Market",
+    "address": "1 South Main,",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30009",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://alpharettafarmersmarket.com/",
+    "operationHours": "Saturdays, 8:30am to 1:00pm, April - October "
+  },
+  {
+    "name": "Cumming Farmers Market",
+    "address": "235 Castleberry Rd.",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30040",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "https://www.facebook.com/Cummingfarmersmarket/",
+    "operationHours": "Wednesdays & Saturdays, 6:30am to 11:00Am"
+  },
+  {
+    "name": "East Point Farmers Market",
+    "address": "2757 East Point St.",
+    "city": "East Point",
+    "state": "GA",
+    "zip": "30344",
+    "image": "http://i66.tinypic.com/2e1en7p.png",
+    "website": "http://www.downtowneastpoint.com/eastpointfarmersmarket//?fbclid=IwAR1IAKbVQnmBzKL-X52tieBRgYIxHtGVh4fCBHwTUuFv69ZJsZWQ4YqanB0",
+    "operationHours": "Wednesdays, 4PM-7PM (SUMMER 4PM-7:30PM)"
+  },
+  {
+    "name": "Grant Park Farmers Market",
+    "address": "600 Cherokee Ave. SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30308",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://cfmatl.org/grantpark/",
+    "operationHours": "Sunday, 9AM-1PM"
+  },
+  {
+    "name": "Henry County Farmers Market",
+    "address": "97 Lake Dow Rd.",
+    "city": "McDonough",
+    "state": "GA",
+    "zip": "30252",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.facebook.com/HenryCountyFarmersMarket?fref=ts",
+    "operationHours": "Thursday, 10AM-2PM"
+  },
+  {
+    "name": "Green Market at Piedmont Park",
+    "address": "Piedmont Park, 12th St. gate",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30306",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.piedmontpark.org/green-market/",
+    "operationHours": "Saturday, 9AM-1PM"
+  },
+  {
+    "name": "Morningside Farmers Market",
+    "address": "1393 N.Highland Rd.",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30306",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.morningsidemarket.com/",
+    "operationHours": "Saturday, 8AM-11:30AM"
+  },
+  {
+    "name": "Peachtree Road Farmers Market",
+    "address": "2744 Peachtree Rd. NW",
+    "city": "Atlant",
+    "state": "GA",
+    "zip": "30305",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://peachtreeroadfarmersmarket.com/",
+    "operationHours": "Saturday, 9AM-12PM, April 7th-December 15th"
+  },
+  {
+    "name": "Sandy Springs Farmers Market",
+    "address": "235 Sandy Springs Circle NW",
+    "city": "Sandy Springs",
+    "state": "GA",
+    "zip": "30328",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://heritagesandysprings.org/3485-2/community-events/hss-farmers-market/",
+    "operationHours": "Saturday, 8:30AM-12PM"
+  },
+  {
+    "name": "SWOOM-Southwest Outdoor Organic Market",
+    "address": "Atwood Community Gardens, 779 Atwood St.",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30310",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://herbnfarmatl.locallygrown.net/",
+    "operationHours": "Thursday, 4PM-8PM"
+  },
+  {
+    "name": "Lawrenceville Farmers Market",
+    "address": "20 S. Clayton St.",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30046",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.soilmate.com/markets/lawrenceville-farmers-market#listing-tabs=hours",
+    "operationHours": "Saturday: 12:30PM-4PM"
+  },
+  {
+    "name": "Truly Living Well The Market @ Collegetown Farm",
+    "address": "324 Lawton St. SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30310",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.trulylivingwell.com/ctown-market",
+    "operationHours": "Friday: 3PM-7:30PM"
+  },
+  {
+    "name": "Lilburn Farmers Market",
+    "address": "1400 Killian Hill Rd SW",
+    "city": "Lilburn",
+    "state": "GA",
+    "zip": "30047",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "http://www.lilburnfarmersmarket.org/",
+    "operationHours": "June, July, August: Friday 4PM-8PM"
+  },
+  {
+    "name": "Snellville Farmers Market",
+    "address": "2342 Oak Rd SW",
+    "city": "Snellville",
+    "state": "GA",
+    "zip": "30078",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.snellvillefarmersmarket.com/",
+    "operationHours": "October-May: Saturday, 9AM-12PM"
+  },
+  {
+    "name": "Suwanee Farmers Market",
+    "address": "370 Buford Highway",
+    "city": "Suwanne",
+    "state": "GA",
+    "zip": "30024",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "http://www.suwanee.com/explore-suwanee/events/farmers-market",
+    "operationHours": "May 12 – October 6, 2018: Saturdays, 8 am-noon, November 2018 – April 2019: Second Saturday of the month, 9-11 am"
+  },
+  {
+    "name": "Whistle Stop Farmers Market",
+    "address": "93 Park Dr.",
+    "city": "Norcross",
+    "state": "GA",
+    "zip": "30071",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.piedmontpark.org/green-market/",
+    "operationHours": "Saturday, 9AM-1PM June 2, 9, 16, 23, 30 - July 7, 14, 21, 28 - August 4, 11, 18, 25"
+  },
+  {
+    "name": "Paulding County Farm Bureau Farmers Market",
+    "address": "2515 Marietta Hwy",
+    "city": "Dallas",
+    "state": "GA",
+    "zip": "30157",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.georgiagrown.com/members/profile/paulding-county-farm-bureau-farmers-market",
+    "operationHours": "Monday-Friday: 8:30AM-5PM"
+  },
+  {
+    "name": "Your Dekalb Farmers Market",
+    "address": "3000 E. Ponce De Leon Ave.",
+    "city": "Decatur",
+    "state": "GA",
+    "zip": "30030",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "http://www.dekalbfarmersmarket.com/",
+    "operationHours": "Daily: 9AM-9PM"
+  },
+  {
+    "name": "Buford Highway Farmers Market",
+    "address": "5600 Buford Hwy NE",
+    "city": "Doraville",
+    "state": "GA",
+    "zip": "30340",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.facebook.com/BufordHighwayFarmersMarket/",
+    "operationHours": "Monday-Sunday: 8AM-10PM"
+  },
+  {
+    "name": "Municipal Market",
+    "address": "209 Edgewood Ave SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://municipalmarketatl.com/",
+    "operationHours": "Monday-Saturday: 8AM-6PM, Sunday: Noon-5PM"
+  },
+  {
+    "name": "Ponce City Farmers Market",
+    "address": "675 Ponce De Leon Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30306",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://cfmatl.org/poncecity/",
+    "operationHours": "Tuesday: 4-8PM"
+  },
+  {
+    "name": "Westside Provisions District Farmers Market",
+    "address": "1207 Howell Mill Rd NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.facebook.com/cfmwestside/",
+    "operationHours": "Monday-Sunday: 9AM-11PM"
+  },
+  {
+    "name": "CT Farmers Market",
+    "address": "3317 Buford Hwy NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30339",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.yelp.com/biz/ct-farmers-market-atlanta",
+    "operationHours": "Monday-Sunday:9AM-10PM"
+  },
+  {
+    "name": "Nam Dae Mun Farmers Market",
+    "address": "2350 Spring Rd SE",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.ndmmarket.com/",
+    "operationHours": "Monday-Saturday:9AM-10PM, Sunday: 9:00AM-9:00PM"
+  },
+  {
+    "name": "Atlanta State Farmers Market",
+    "address": "16 Forest Pkwy",
+    "city": "Forest Park",
+    "state": "GA",
+    "zip": "30297",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "http://agr.georgia.gov/atlanta-farmers-market.aspx",
+    "operationHours": "Open 24 hours a day, 7 days a week."
+  },
+  {
+    "name": "Lake City International Farmers Market",
+    "address": "5226 Jonesboro Rd",
+    "city": "Morrow",
+    "state": "GA",
+    "zip": "30260",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.facebook.com/LakeCityMarket/",
+    "operationHours": "Monday-Saturday:8:30AM-10PM, Sunday: 8:30AM-9:00PM"
+  },
+  {
+    "name": "Midtown Market @ 999 Peachtree",
+    "address": "999 Peachtree St NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30309",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.facebook.com/MidtownMarket",
+    "operationHours": "Wednesday, 4PM-7PM"
+  },
+  {
+    "name": "The Produce Patch",
+    "address": "4363 Thompson Mill Rd",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30519",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.facebook.com/theproducepatch/",
+    "operationHours": "Monday-Friday:10AM-6PM, Saturday: 10AM-5PM"
+  },
+  {
+    "name": "Nell's Produce Market",
+    "address": "29850 Nesbit Ferry Rd",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.yelp.com/biz/nells-produce-market-alpharetta",
+    "operationHours": "Monday-Friday:10AM-6PM, Saturday: 10AM-5PM"
+  },
+  {
+    "name": "Canton Street Farmers Market",
+    "address": "1207 Canton St.",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30075",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.facebook.com/CantonStreetFarmersMarket/",
+    "operationHours": "Tuesday-Friday:10AM-6PM, Saturday: 9AM-3PM"
+  },
+  {
+    "name": "Savannah State Farmers Market",
+    "address": "701 US Hwy. 80",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31408",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.piedmontpark.org/green-market/",
+    "operationHours": "Monday-Friday: 9AM-6PM, Saturday: 9AM-5PM, Sunday: Closed"
+  },
+  {
+    "name": "Forsyth Farmers Market",
+    "address": "21 E Park Ave",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "301401",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://forsythfarmersmarket.com/",
+    "operationHours": "Saturday, 9AM-1PM"
+  },
+  {
+    "name": "Tifton Farmers Market",
+    "address": "120 Tift Avenue S",
+    "city": "Tifton",
+    "state": "GA",
+    "zip": "31794",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.georgiagrown.com/members/profile/downtown-tifton-farmers-market",
+    "operationHours": "Saturday, 9AM-12:30PM"
+  },
+  {
+    "name": "Macon State Farmers Market",
+    "address": "2055 Eisenhower Parkway",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31206",
+    "image": "\"http://i66.tinypic.com/2e1en7p.png\"",
+    "website": "https://www.georgiagrown.com/members/profile/macon-state-farmers-market",
+    "operationHours": "Daily, 6AM-10PM"
+  }
+]
