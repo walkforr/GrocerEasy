@@ -34,21 +34,14 @@ $(".customzip").on("click", function() {
         method: "GET",
         url: `/api/markets`
       }).then(function(markets) {
-        console.log(markets);
-        console.log(nearbyZips);
         for (var i = 0; i < nearbyZips.length; i++) {
-          console.log(nearbyZips[i]);
           for (var j = 0; j < markets.length; j++) {
-            console.log(markets[j].zip);
             if (parseInt(nearbyZips[i]) === markets[j].zip) {
-              console.log("HELLO THERE!");
               nearbyMarkets.push(markets[j]);
             } else {
-              console.log("this zip doesnt match");
             }
           }
         }
-        console.log(nearbyMarkets);
         $(".nearbyMarkets").empty();
         for (let i = 0; i < nearbyMarkets.length; i++) {
           $(".nearbyMarkets").append(
@@ -70,7 +63,6 @@ $(".customzip").on("click", function() {
           );
         }
         $(".marketsBox").on("click", function() {
-          console.log("hey there ho there howdya do");
           const item = {
             marketName: $(this)
               .find("#marketName")
@@ -116,7 +108,6 @@ $(".customzip").on("click", function() {
     $(".zip-modal-mask, .zip-modal").fadeIn(200);
     $(".zip-modal-mask, .modal-save").on("click", function() {
       $(".zip-modal-mask, .zip-modal").fadeOut(100);
-      console.log("not a valid zip");
     });
   }
 });
