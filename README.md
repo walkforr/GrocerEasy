@@ -4,7 +4,7 @@
 For this project, We built an application that takes a users location (either set by their current location or a location of their choosing) and renders the nearest markets. It will also allow you to search products that are available at markets in that area. 
 - - - 
 ### Usefullness 
-In this day in age, more and more people are increasingly concered about the source of their foods. Everyone is seaking out places to get locally grown, fresh food while supporting local businesses. Currently, there is nothing out there that takes all the Farmers Markets and puts that information in one place with addresses, operating hours, and available products. Enter GrocerEasy. 
+In this day in age, more and more people are increasingly concered about the source of their foods. Many people are seeking information for places to get locally grown, fresh food while supporting local businesses. Currently, there are very few or scattered resources out there that takes all the Farmers Markets and puts that information in one place with addresses, operating hours, and available products. Enter GrocerEasy. 
 - - - 
 ### Instructions
 1. When you open the page, it will ask you to subscribe to updates of this app. Things like new Farmer's Markets in your area, coupons and added products are all available updates for the user if they subsribe. 
