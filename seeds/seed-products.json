@@ -1,2023 +1,2023 @@
-{
-  "broccoli": {
+[
+  {
     "name": "Broccoli",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 1
   },
-  "tomatoes": {
+  {
     "name": "Tomatoes",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 2
   },
-  "potatoes": {
+  {
     "name": "Potatoes",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 3
   },
-  "onions": {
+  {
     "name": "Onions",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 4
   },
-  "eggplant": {
+  {
     "name": "Eggplant",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 5
   },
-  "Cucumber": {
+  {
     "name": "Cucumber",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 6
   },
-  "sweetPotatoes": {
+  {
     "name": "Sweet Potatoes",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 7
   },
-  "artichokes": {
+  {
     "name": "Artichokes",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 8
   },
-  "iceburgLettuce": {
+  {
     "name": "Iceburg Lettuce",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 9
   },
-  "greenPeas": {
+  {
     "name": "Green Peas",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 10
   },
-  "asparagus": {
+  {
     "name": "Asparagus",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 11
   },
-  "bellPeppers": {
+  {
     "name": "Bell Peppers",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 12
   },
-  "brusselSprouts": {
+  {
     "name": "Brussel Sprouts",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 13
   },
-  "heartOfPalm": {
+  {
     "name": "Heart of Palm",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 14
   },
-  "jalapenoPeppers": {
+  {
     "name": "Jalapeno Peppers",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 15
   },
-  "blackEyedPeas": {
+  {
     "name": "Black Eyed Peas",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 16
   },
-  "englishPeas": {
+  {
     "name": "English Peas",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 17
   },
-  "greenBeans": {
+  {
     "name": "Green Beans",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 18
   },
-  "yellowCorn": {
+  {
     "name": "Yellow Corn",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 19
   },
-  "whiteCorn": {
+  {
     "name": "White Corn",
     "category": "vegetables",
     "isOrganic": true,
     "ProductId": 20
   },
-  "redApples": {
+  {
     "name": "Red Apples",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 21
   },
-  "goldenDeliciousApples": {
+  {
     "name": "Golden Delicious Apples",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 22
   },
-  "grannySmithApples": {
+  {
     "name": "Granny Smith Apples",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 23
   },
-  "galaApples": {
+  {
     "name": "Gala Apples",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 24
   },
-  "fujiApples": {
+  {
     "name": "Fuji Apples",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 25
   },
-  "Bananas": {
+  {
     "name": "Bananas",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 26
   },
-  "peaches": {
+  {
     "name": "Peaches",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 27
   },
-  "strawberries": {
+  {
     "name": "Strawberries",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 28
   },
-  "grapes": {
+  {
     "name": "Grapes",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 29
   },
-  "navelOranges": {
+  {
     "name": "Navel Oranges",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 30
   },
-  "tangelos": {
+  {
     "name": "Tangelos",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 31
   },
-  "hamlinOranges": {
+  {
     "name": "Hamlin Oranges",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 32
   },
-  "valenciaOranges": {
+  {
     "name": "Valencia Oranges",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 33
   },
-  "bloodOranges": {
+  {
     "name": "Blood Oranges",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 34
   },
-  "lemons": {
+  {
     "name": "Lemons",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 35
   },
-  "limes": {
+  {
     "name": "Limes",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 36
   },
-  "mandarinOranges": {
+  {
     "name": "Mandarin Oranges",
     "category": "fruits",
     "isOrganic": true,
     "ProductId": 37
   },
 
-  "shrimp": {
+  {
     "name": "Shrimp",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 38
   },
 
-  "giantFreshwaterPrawn": {
+  {
     "name": "Giant Freshwater Prawn",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 39
   },
 
-  "gulfShrimp": {
+  {
     "name": "Gulf Shrimp",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 40
   },
-  "rockShrimp": {
+  {
     "name": "Rock Shrimp",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 41
   },
-  "spotPrawns": {
+  {
     "name": "Spot Prawns",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 42
   },
-  "tigerPrawns": {
+  {
     "name": "Tiger Prawns",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 43
   },
-  "oysters": {
+  {
     "name": "Oysters",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 44
   },
-  "mussels": {
+  {
     "name": "Mussels",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 45
   },
-  "octopus": {
+  {
     "name": "Octopus",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 46
   },
-  "monkfish": {
+  {
     "name": "Monkfish",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 47
   },
-  "seaScallop": {
+  {
     "name": "Sea Scallop",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 48
   },
-  "bayScallop": {
+  {
     "name": "Bay Scallop",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 49
   },
-  "squid": {
+  {
     "name": "Squid",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 50
   },
-  "escargot": {
+  {
     "name": "Escargot",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 51
   },
-  "crayfish": {
+  {
     "name": "Crayfish",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 52
   },
-  "rockLobster": {
+  {
     "name": "Rock Lobster",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 53
   },
-  "spinyLobster": {
+  {
     "name": "Spiny Lobster",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 54
   },
-  "redLobster": {
+  {
     "name": "Red Lobster",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 55
   },
-  "lobster": {
+  {
     "name": "Lobster",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 56
   },
-  "crab": {
+  {
     "name": "Crab",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 57
   },
-  "dungenessCrab": {
+  {
     "name": "Dungeness Crab",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 58
   },
-  "mudCrab": {
+  {
     "name": "Mud Crab",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 59
   },
-  "sandCrab": {
+  {
     "name": "Sand Crab",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 60
   },
-  "kingCrab": {
+  {
     "name": "King Crab",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 61
   },
-  "snowCrab": {
+  {
     "name": "Snow Crab",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 62
   },
-  "crabLegs": {
+  {
     "name": "Crab Legs",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 63
   },
-  "caviar": {
+  {
     "name": "Caviar",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 64
   },
-  "ikura": {
+  {
     "name": "Ikura",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 65
   },
-  "clams": {
+  {
     "name": "Clams",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 66
   },
-  "spanishMackerel": {
+  {
     "name": "Spanish Mackerel",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 67
   },
-  "eel": {
+  {
     "name": "Eel",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 68
   },
-  "atlanticSalmon": {
+  {
     "name": "Atlantic Salmon",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 69
   },
-  "alaskanSalmon": {
+  {
     "name": "Alaskan Salmon",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 70
   },
-  "catfish": {
+  {
     "name": "Catfish",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 71
   },
-  "flounder": {
+  {
     "name": "Flounder",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 72
   },
-  "sole": {
+  {
     "name": "Sole",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 73
   },
-  "tuna": {
+  {
     "name": "Tuna",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 74
   },
-  "wildAtlanticCod": {
+  {
     "name": "Wild Atlantic Cod",
     "category": "seafood",
     "isOrganic": true,
     "ProductId": 75
   },
-  "alaskanPollock": {
+  {
     "name": "Alaskan Pollock",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 76
   },
-  "pollock": {
+  {
     "name": "Pollock",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 77
   },
-  "haddockFillets": {
+  {
     "name": "Haddock Fillets",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 78
   },
-  "cod": {
+  {
     "name": "Cod",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 79
   },
-  "grouper": {
+  {
     "name": "Grouper",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 80
   },
-  "yellowtailTuna": {
+  {
     "name": "Yellowtail Tuna",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 81
   },
-  "tilapia": {
+  {
     "name": "Tilapia",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 82
   },
-  "swordfish": {
+  {
     "name": "Swordfish",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 83
   },
-  "shark": {
+  {
     "name": "Shark",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 84
   },
-  "tilefish": {
+  {
     "name": "Tilefish",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 85
   },
-  "anchovies": {
+  {
     "name": "Anchovies",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 86
   },
-  "bass": {
+  {
     "name": "Bass",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 87
   },
-  "hake": {
+  {
     "name": "Hake",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 88
   },
-  "halibut": {
+  {
     "name": "Halibut",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 89
   },
-  "herring": {
+  {
     "name": "Herring",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 90
   },
-  "mahiMahi": {
+  {
     "name": "Mahi Mahi",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 91
   },
-  "seaBass": {
+  {
     "name": "Sea Bass",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 92
   },
-  "redSnapper": {
+  {
     "name": "Red Snapper",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 93
   },
-  "sturgeon": {
+  {
     "name": "Sturgeon",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 94
   },
-  "rainbowTrout": {
+  {
     "name": "Rainbow Trout",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 95
   },
-  "trout": {
+  {
     "name": "trout",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 96
   },
-  "bluefinTuna": {
+  {
     "name": "Bluefin Tuna",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 97
   },
-  "turbot": {
+  {
     "name": "Turbot",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 98
   },
-  "whiting": {
+  {
     "name": "Whiting",
     "category": "seafood",
     "isOrganic": false,
     "ProductId": 99
   },
-  "cantaloupe": {
+  {
     "name": "Cantaloupe",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 100
   },
-  "pear": {
+  {
     "name": "Pear",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 101
   },
-  "pineapple": {
+  {
     "name": "Pineapple",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 102
   },
-  "plum": {
+  {
     "name": "Plum",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 103
   },
-  "watermelon": {
+  {
     "name": "Watermelon",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 104
   },
-  "raisins": {
+  {
     "name": "Raisins",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 105
   },
-  "prunes": {
+  {
     "name": "Prunes",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 106
   },
-  "apricots": {
+  {
     "name": "Apricots",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 107
   },
-  "grapefruit": {
+  {
     "name": "Grapefruit",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 108
   },
-  "honeyDewMelons": {
+  {
     "name": "Honey Dew Melons",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 109
   },
-  "pomegranate": {
+  {
     "name": "Pomegranate",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 110
   },
-  "kiwi": {
+  {
     "name": "Kiwi",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 111
   },
-  "starFruit": {
+  {
     "name": "Star Fruit",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 112
   },
-  "mango": {
+  {
     "name": "Mango",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 113
   },
-  "papaya": {
+  {
     "name": "Papaya",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 114
   },
-  "avocado": {
+  {
     "name": "Avocado",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 115
   },
-  "passionFruit": {
+  {
     "name": "Passion Fruit",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 116
   },
-  "guava": {
+  {
     "name": "Guava",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 117
   },
-  "pumpkin": {
+  {
     "name": "Pumpkin",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 118
   },
-  "durian": {
+  {
     "name": "Durian",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 119
   },
-  "dragonFruit": {
+  {
     "name": "Dragon Fruit",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 120
   },
-  "cherry": {
+  {
     "name": "Cherry",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 121
   },
-  "blackCherry": {
+  {
     "name": "Black Cherry",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 122
   },
-  "blueberries": {
+  {
     "name": "Blueberries",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 123
   },
-  "raspberries": {
+  {
     "name": "Raspberries",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 124
   },
-  "whiteGrapes": {
+  {
     "name": "White Grapes",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 125
   },
-  "fig": {
+  {
     "name": "Fig",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 126
   },
-  "plantains": {
+  {
     "name": "Plantains",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 127
   },
-  "jackfruit": {
+  {
     "name": "Jackfruit",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 128
   },
-  "date": {
+  {
     "name": "date",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 129
   },
-  "cranberriesFresh": {
+  {
     "name": "Fresh Cranberries",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 130
   },
-  "cranberriesDried": {
+  {
     "name": "Dried Cranberries",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 131
   },
-  "cherrySour": {
+  {
     "name": "Sour Cherry",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 132
   },
-  "clementine": {
+  {
     "name": "Clementine Orange",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 133
   },
-  "nectarine": {
+  {
     "name": "Nectarine",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 134
   },
-  "grapesMuscadine": {
+  {
     "name": "Muscadine Grapes",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 135
   },
-  "plumDried": {
+  {
     "name": "Dried Plum",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 136
   },
-  "plumSugar": {
+  {
     "name": "Sugar Plum",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 137
   },
-  "breadfruit": {
+  {
     "name": "Breadfruit",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 138
   },
-  "blackberry": {
+  {
     "name": "Blackberry",
     "category": "fruits",
     "isOrganic": "true",
     "ProductId": 139
   },
 
-  "stilton": {
+  {
     "name": "Stilton",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 140
   },
-  "roquefort": {
+  {
     "name": "Roquefort",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 141
   },
-  "maytag": {
+  {
     "name": "Maytag",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 142
   },
-  "pointReyes": {
+  {
     "name": "Point Reyes",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 143
   },
-  "brie": {
+  {
     "name": "Brie",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 144
   },
-  "cheddarmild": {
+  {
     "name": "Cheddar",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 145
   },
-  "cheddarSharp": {
+  {
     "name": "Sharp Cheddar",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 146
   },
-  "cheddarExtraSharp": {
+  {
     "name": "Extra Sharp Cheddar",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 147
   },
-  "gruyere": {
+  {
     "name": "Gruyere",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 148
   },
-  "havarti": {
+  {
     "name": "Havarti",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 149
   },
-  "gouda": {
+  {
     "name": "Gouda",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 150
   },
-  "mozzarella": {
+  {
     "name": "Mozzarella",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 151
   },
-  "mozzarellaBuffaloMilk": {
+  {
     "name": "Buffalo Milk Mozzarella",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 152
   },
-  "parmegianoReggiano": {
+  {
     "name": "Parmegiano Reggiano",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 153
   },
-  "havartiJalapeno": {
+  {
     "name": "Jalapeno Havarti",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 154
   },
-  "swiss": {
+  {
     "name": "Swiss",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 155
   },
-  "swissBaby": {
+  {
     "name": "Baby Swiss",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 156
   },
-  "pecorinoRomano": {
+  {
     "name": "Pecorino Romano",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 157
   },
-  "granaPadano": {
+  {
     "name": "Grana Padano",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 158
   },
-  "provolone": {
+  {
     "name": "Provolone",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 159
   },
-  "goatCheeseHard": {
+  {
     "name": "Hard Goat Cheese",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 160
   },
-  "goatCheeseSoft": {
+  {
     "name": "Soft Goat Cheese",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 161
   },
-  "asiago": {
+  {
     "name": "Asiago",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 162
   },
-  "castigliano": {
+  {
     "name": "Castigliano",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 163
   },
-  "montereyJack": {
+  {
     "name": "Monterey Jack",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 164
   },
-  "quesoBlanco": {
+  {
     "name": "Queso Blanco",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 165
   },
-  "quesoFresco": {
+  {
     "name": "Queso Fresco",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 166
   },
-  "quesoJalapeno": {
+  {
     "name": "Queso Jalapeno",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 167
   },
-  "oaxaca": {
+  {
     "name": "Oaxaca",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 168
   },
-  "panela": {
+  {
     "name": "Panela",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 169
   },
-  "canastra": {
+  {
     "name": "Canastra",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 170
   },
-  "aishMerahrah": {
+  {
     "name": "Aish Merahrah",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 171
   },
-  "anpan": {
+  {
     "name": "anpan",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 172
   },
-  "bagel": {
+  {
     "name": "bagel",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 173
   },
-  "bagelCinnamonRaisin": {
+  {
     "name": "Cinnamon Raisin Bagel",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 174
   },
-  "bagelBlueberry": {
+  {
     "name": "Blueberry Bagel",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 175
   },
-  "baguette": {
+  {
     "name": "Baguette",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 176
   },
-  "brioche": {
+  {
     "name": "Brioche",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 177
   },
-  "naan": {
+  {
     "name": "Naan",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 178
   },
-  "rye": {
+  {
     "name": "Rye",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 179
   },
-  "sourdough": {
+  {
     "name": "Sourdough",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 180
   },
-  "ciabatta": {
+  {
     "name": "ciabatta",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 181
   },
-  "croissant": {
+  {
     "name": "Croissant",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 182
   },
-  "focaccia": {
+  {
     "name": "Focaccia",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 183
   },
-  "tortillaCorn": {
+  {
     "name": "Corn Tortilla",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 184
   },
-  "tortillaFlour": {
+  {
     "name": "Flour Tortilla",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 185
   },
-  "potatoBread": {
+  {
     "name": "Potato Bread",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 186
   },
-  "tandoor": {
+  {
     "name": "Tandoor",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 187
   },
-  "wholeWheat": {
+  {
     "name": "Whole Wheat",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 188
   },
-  "pumpernickel": {
+  {
     "name": "Pumpernickel",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 189
   },
-  "fladenBread": {
+  {
     "name": "Fladen Bread",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 190
   },
-  "challa": {
+  {
     "name": "challa",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 191
   },
-  "laffa": {
+  {
     "name": "laffa",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 192
   },
-  "babka": {
+  {
     "name": "babka",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 193
   },
-  "lavash": {
+  {
     "name": "Lavash",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 194
   },
-  "injera": {
+  {
     "name": "Injera",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 195
   },
-  "panDulce": {
+  {
     "name": "Pan Dulce",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 196
   },
-  "bolillos": {
+  {
     "name": "Bolillos",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 197
   },
-  "conchas": {
+  {
     "name": "Conchas",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 198
   },
-  "bauernbrot": {
+  {
     "name": "Bauernbrot",
     "category": "bread",
     "isOrganic": "true",
     "ProductId": 199
   },
 
-  "ribRoast": {
+  {
     "name": "Rib Roast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 200
   },
-  "ribSteak": {
+  {
     "name": "Rib Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 201
   },
-  "ribeyeRoast": {
+  {
     "name": "Ribeye Roast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 202
   },
-  "ribeyeSteak": {
+  {
     "name": "Ribeye Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 203
   },
-  "ribs": {
+  {
     "name": "Ribs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 204
   },
-  "brisket": {
+  {
     "name": "Brisket",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 205
   },
-  "shank": {
+  {
     "name": "Shank",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 206
   },
-  "skirtSteak": {
+  {
     "name": "Skirt Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 207
   },
-  "flankSteak": {
+  {
     "name": "Flank Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 208
   },
-  "chuckEyeRoast": {
+  {
     "name": "Chuck Eye Roast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 209
   },
-  "shortRibs": {
+  {
     "name": "Short Ribs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 210
   },
-  "tinderRoast": {
+  {
     "name": "Tinder Roast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 211
   },
-  "steakMedallions": {
+  {
     "name": "Steak Medallions",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 212
   },
-  "tboneSteak": {
+  {
     "name": "T-Bone Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 213
   },
-  "porterhouseSteak": {
+  {
     "name": "Porterhouse Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 214
   },
-  "tenderloinRoast": {
+  {
     "name": "Tenderloin Roast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 215
   },
-  "filletMignon": {
+  {
     "name": "Fillet Mignon",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 216
   },
-  "topSirloinSteak": {
+  {
     "name": "Top Sirloin Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 217
   },
-  "bottomRoundSteak": {
+  {
     "name": "Bottom Round Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 218
   },
-  "topRoast": {
+  {
     "name": "Top Roast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 219
   },
-  "groundBeef": {
+  {
     "name": "Ground Beef",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 220
   },
-  "porkBelly": {
+  {
     "name": "Pork Belly",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 221
   },
-  "chumpChop": {
+  {
     "name": "Chump Chop",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 222
   },
-  "porkShoulder": {
+  {
     "name": "Pork Shoulder",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 223
   },
-  "porkFillet": {
+  {
     "name": "Pork Fillet",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 224
   },
-  "porkCheeks": {
+  {
     "name": "Pork Cheeks",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 225
   },
-  "porkLeg": {
+  {
     "name": "Pork Leg",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 226
   },
-  "porkloin": {
+  {
     "name": "Porkloin",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 227
   },
 
-  "bacon": {
+  {
     "name": "Bacon",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 228
   },
-  "ribChop": {
+  {
     "name": "Rib Chop",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 229
   },
-  "porkShank": {
+  {
     "name": "Pork Shank",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 230
   },
-  "porkRump": {
+  {
     "name": "Pork Rump",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 231
   },
-  "porkNeck": {
+  {
     "name": "Pork Neck",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 232
   },
-  "porkChop": {
+  {
     "name": "Pork Chopp",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 233
   },
-  "porkRack": {
+  {
     "name": "Pork Rack",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 234
   },
-  "chickenBreast": {
+  {
     "name": "Chicken Breast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 235
   },
-  "chickenThighs": {
+  {
     "name": "Chicken Thighs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 236
   },
-  "chickenWings": {
+  {
     "name": "Chicken Wings",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 237
   },
-  "chickenDrumettes": {
+  {
     "name": "Chicken Drumettes",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 238
   },
-  "bonelessChickenBreast": {
+  {
     "name": "Boneless Chicken Breast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 239
   },
-  "skinlessChickenBreast": {
+  {
     "name": "Skinless Chicken Breast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 240
   },
-  "chickenLegs": {
+  {
     "name": "Chicken Legs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 241
   },
-  "chickenDrumsticks": {
+  {
     "name": "Chicken Drumsticks",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 242
   },
-  "bonelessChickenThighs": {
+  {
     "name": "Boneless Chicken Thighs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 243
   },
-  "skinlessChickenThighs": {
+  {
     "name": "Skinless Chicken Thighs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 244
   },
-  "chickenNeck": {
+  {
     "name": "Chicken Neck",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 245
   },
-  "venisonLoin": {
+  {
     "name": "Venison Loin",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 246
   },
-  "venisonTenderloins": {
+  {
     "name": "Venison Tenderloins",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 247
   },
-  "venisonShoulder": {
+  {
     "name": "Venison Shoulder",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 248
   },
-  "venisonFrontShank": {
+  {
     "name": "Venison Front Shank",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 249
   },
-  "venisonBrisket": {
+  {
     "name": "Venison Brisket",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 250
   },
-  "venisonRibs": {
+  {
     "name": "Venison Ribs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 251
   },
-  "venisonRearShank": {
+  {
     "name": "Venison Reat Shank",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 252
   },
-  "venisonRump": {
+  {
     "name": "Venison Rump",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 253
   },
-  "venisonForeleg": {
+  {
     "name": "Venison Foreleg",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 254
   },
-  "venisonFlank": {
+  {
     "name": "Venison Flank",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 255
   },
 
-  "venisonSirloinTop": {
+  {
     "name": "Venison Sirloin Tip",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 256
   },
 
-  "turkeyNeck": {
+  {
     "name": "Turkey Neck",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 257
   },
 
-  "turkeyTenderloin": {
+  {
     "name": "Turkey Tenderloin",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 258
   },
 
-  "turkeyBreast": {
+  {
     "name": "Turkey Breast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 259
   },
-  "turkeyDrumettes": {
+  {
     "name": "Turkey Drumettes",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 260
   },
-  "turkeyTip": {
+  {
     "name": "Turkey Tip",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 261
   },
-  "turkeyThighs": {
+  {
     "name": "Turkey Thighs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 262
   },
-  "turkeyDrumsticks": {
+  {
     "name": "Turkey Drumsticks",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 263
   },
-  "chickenHeart": {
+  {
     "name": "Chicken Heart",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 264
   },
-  "turkeyWings": {
+  {
     "name": "Turkey Wings",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 265
   },
-  "chickenLiver": {
+  {
     "name": "Chicken Liver",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 266
   },
-  "chickenGiblets": {
+  {
     "name": "Chicken Giblets",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 267
   },
-  "turkey": {
+  {
     "name": "Turkey",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 268
   },
-  "wholeChicken": {
+  {
     "name": "Whole Chicken",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 269
   },
-  "foieGras": {
+  {
     "name": "Foie Gras",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 270
   },
-  "duckConfit": {
+  {
     "name": "Duck Confit",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 271
   },
-  "duckWingettes": {
+  {
     "name": "Duck Wingettes",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 272
   },
-  "duckPate": {
+  {
     "name": "Duck Pate",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 273
   },
-  "duckNeck": {
+  {
     "name": "Duck Neck",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 274
   },
-  "duckDrumsticks": {
+  {
     "name": "Duck Drumstick",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 275
   },
-  "duckDrumettes": {
+  {
     "name": "Duck Drumettes",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 276
   },
 
-  "duckTenderloin": {
+  {
     "name": "Duck Tenderloin",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 277
   },
-  "duckBreast": {
+  {
     "name": "Duck Breast",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 278
   },
-  "duckThighs": {
+  {
     "name": "Duck Thighs",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 279
   },
-  "vealShank": {
+  {
     "name": "Veal Shank",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 280
   },
-  "vealLeg": {
+  {
     "name": "Veal Leg",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 281
   },
-  "vealLoin": {
+  {
     "name": "Veal Loin",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 282
   },
-  "vealShortloin": {
+  {
     "name": "Veal Shortloin",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 283
   },
-  "vealShoulder": {
+  {
     "name": "Veal Shoulder",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 284
   },
-  "vealRack": {
+  {
     "name": "Veal Rack",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 285
   },
-  "mincedLamb": {
+  {
     "name": "Minced Lamb",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 286
   },
-  "lambShank": {
+  {
     "name": "Lamb Shank",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 287
   },
-  "lambChop": {
+  {
     "name": "Lamb Chop",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 288
   },
 
-  "lambCutlets": {
+  {
     "name": "Lamb Cutlets",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 289
   },
 
-  "lambShoulderSteak": {
+  {
     "name": "Lamb Shoulder Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 290
   },
 
-  "rackOfLamb": {
+  {
     "name": "Rack Of Lamb",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 291
   },
 
-  "lambFillets": {
+  {
     "name": "Lamb Fillets",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 292
   },
-  "bonelessRolledLambShoulder": {
+  {
     "name": "Boneles Rolled Lamb Shoulder",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 293
   },
-  "lambRumpSteak": {
+  {
     "name": "Lamb Rump Steak",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 294
   },
-  "lambNoisettes": {
+  {
     "name": "Lamb Noisettes",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 295
   },
-  "lambLegSteaks": {
+  {
     "name": "Lamb Leg Steaks",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 296
   },
-  "lambNeckFillets": {
+  {
     "name": "Lamb Neck Fillets",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 297
   },
-  "lambBamsleyChop": {
+  {
     "name": "Lamb Bamsley Chop",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 298
   },
-  "lambDice": {
+  {
     "name": "Lamb Dice",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 299
   },
-  "lambKnuckles": {
+  {
     "name": "Lamb Knuckles",
     "category": "meats",
     "isOrganic": true,
     "ProductId": 300
   },
-  "almonds": {
+  {
     "name": "Almonds",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 301
   },
-  "nutsBrazil": {
+  {
     "name": "Brazil Nuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 302
   },
-  "cacaoNuts": {
+  {
     "name": "Cacao Nuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 303
   },
-  "cashews": {
+  {
     "name": "Cashews",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 304
   },
-  "chestnuts": {
+  {
     "name": "C",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 305
   },
-  "hazelnuts": {
+  {
     "name": "Hazelnuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 306
   },
-  "macadamia": {
+  {
     "name": "macadamia",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 307
   },
-  "peanuts": {
+  {
     "name": "peanuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 308
   },
-  "pecans": {
+  {
     "name": "Pecans",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 309
   },
-  "piliNuts": {
+  {
     "name": "Pili Nuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 310
   },
-  "pineNuts": {
+  {
     "name": "Pine Nuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 311
   },
-  "sunflowerSeeds": {
+  {
     "name": "Sunflower Seeds",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 312
   },
-  "tigerNuts": {
+  {
     "name": "Tiger Nuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 313
   },
-  "walnuts": {
+  {
     "name": "Walnuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 314
   },
-  "baruNuts": {
+  {
     "name": "Baru Nuts",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 315
   },
-  "pistachio": {
+  {
     "name": "Pistachio",
     "category": "nuts",
     "isOrganic": "true",
     "ProductId": 316
   },
 
-  "blackberryJam": {
+  {
     "name": "Blackberry Jam",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 317
   },
-  "strawberryPreserves": {
+  {
     "name": "Strawberry Preserves",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 318
   },
-  "orangeMarmalade": {
+  {
     "name": "Orange Marmalade",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 319
   },
-  "grapeJellyConcord": {
+  {
     "name": "Concord Grape Jelly",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 320
   },
-  "blueberryJam": {
+  {
     "name": "Blueberry Jam",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 321
   },
-  "appleJelly": {
+  {
     "name": "Apple Jelly",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 322
   },
-  "appleButter": {
+  {
     "name": "Apple Butter",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 323
   },
-  "honey": {
+  {
     "name": "Honey",
     "category": "jams and jellies",
     "isOrganic": "true",
     "ProductId": 324
   },
 
-  "milkCow": {
+  {
     "name": "Cow Milk",
     "category": "Milk",
     "isOrganic": "true",
     "ProductId": 325
   },
-  "milkGoat": {
+  {
     "name": "Goat Milk",
     "category": "Milk",
     "isOrganic": "true",
     "ProductId": 326
   },
-  "milkOat": {
+  {
     "name": "Oat Milk",
     "category": "Milk",
     "isOrganic": "true",
     "ProductId": 327
   },
-  "milkAlmond": {
+  {
     "name": "Almond Milk",
     "category": "Milk",
     "isOrganic": "true",
     "ProductId": 328
   },
-  "milkCoconut": {
+  {
     "name": "Coconut Milk",
     "category": "Milk",
     "isOrganic": "true",
     "ProductId": 329
   },
-  "milkPecan": {
+  {
     "name": "Pecan Milk",
     "category": "Milk",
     "isOrganic": "true",
     "ProductId": 330
   },
-  "milkHemp": {
+  {
     "name": "Hemp Milk",
     "category": "Milk",
     "isOrganic": "true",
     "ProductId": 331
   },
-  "veganCreamCheese": {
+  {
     "name": "Vegan Cream Cheese",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 332
   },
-  "veganParmesan": {
+  {
     "name": "Vegan Parmesan",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 333
   },
-  "veganRicotta": {
+  {
     "name": "Vegan Ricotta",
     "category": "cheese",
     "isOrganic": "true",
     "ProductId": 334
   }
-}
+]
