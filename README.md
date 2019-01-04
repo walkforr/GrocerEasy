@@ -1,5 +1,7 @@
 # GrocerEasy - Project #2 at GT CBC 
 
+link to project -- > https://warm-earth-30735.herokuapp.com/
+
 ## Overview
 For this project, We built an application that takes a users location (either set by their current location or a location of their choosing) and renders the nearest markets. It will also allow you to search products that are available at markets in that area. 
 - - - 
